@@ -1,8 +1,8 @@
 
 # config bot
-token_bot = '1426373511:AAFbYwnibVbpL4yoREQilPKD3w_rLPO7FNw'
+token_bot = ''
 
 # config db
 user = 'root'
-passwd = '98012243a'
+passwd = ''
 database = 'second_bot'
